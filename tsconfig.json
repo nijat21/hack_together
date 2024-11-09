@@ -1,6 +1,8 @@
 {
   "ts-node": {
-    "require": ["tsconfig-paths/register"]
+    "require": [
+      "tsconfig-paths/register"
+    ]
   },
   "compilerOptions": {
     "target": "ESNext",
@@ -11,20 +13,34 @@
       "vite/client",
       "@modyfi/vite-plugin-yaml/modules",
     ],
-    "lib": ["es2022", "DOM"],
+    "lib": [
+      "es2022",
+      "DOM"
+    ],
     "jsx": "react-jsx",
     "allowSyntheticDefaultImports": true,
     "allowImportingTsExtensions": true,
     "noEmit": true,
     "baseUrl": ".",
     "paths": {
-      "@*": ["./src/*"],
-      "@package": ["./package.json"],
-      "@hooks/*": ["./src/hooks/*"],
-      "@utils/*": ["./src/utils/*"],
-      "@styles/*": ["./src/styles/*"],
-      "@config/*": ["./src/config/*"],
-      "@components/*": ["./src/components/*"],
+      "@*": [
+        "./src/*"
+      ],
+      "@package": [
+        "./package.json"
+      ],
+      "@hooks/*": [
+        "./src/hooks/*"
+      ],
+      "@utils/*": [
+        "./src/utils/*"
+      ],
+      "@config/*": [
+        "./src/config/*"
+      ],
+      "@components/*": [
+        "./src/components/*"
+      ],
     }
   }
 }
