@@ -8,7 +8,6 @@ function Products() {
     description: 'If a dog chews shoes whose shoes does he choose?',
     tags: ['Bestseller'],
   }
-
   return (
     <div className='h-screen flex items-center'>
       <ProductCard product={product} />
