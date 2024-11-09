@@ -1,4 +1,4 @@
-import { reactLogo, viteLogo, reactTogetherLogo } from '@assets'
+import { reactLogo, viteLogo } from '@assets'
 
 const logos = {
   react: {
@@ -8,10 +8,6 @@ const logos = {
   vite: {
     src: viteLogo,
     link: 'https://vitejs.dev',
-  },
-  reacttogether: {
-    src: reactTogetherLogo,
-    link: 'https://reacttogether.dev',
   },
 }
 
