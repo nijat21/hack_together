@@ -38,7 +38,7 @@ function SingleProduct() {
             {product.details?.product_details.map((detail) => {
               return <li key={uniqueKey()}>{detail}</li>
             })}
-            <h1 className='font-bold my-2'>{product.name} Origins</h1>
+            {product.details?.story && <h1 className='font-bold my-2'>{product.name} Origins</h1>}
             <p>{product.details?.story}</p>
           </div>
         </div>

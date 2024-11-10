@@ -38,7 +38,7 @@
       "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c4158c4c39a4ab09b8ba8c000c96fd0_9366/Samba_OG_Shoes_White_B75806_01_01_hover_standard.jpg"
     ],
     "details": {
-      "caption": "LEGENDARY STYLE REFINED",
+      "caption": "SAMBA OG SHOES",
       "benefits": [],
       "product_details": [
         "Regular fit",
@@ -50,6 +50,33 @@
         "Product code: B75806"
       ],
       "story": "Debuting in 1982, the AF-1 was the first basketball shoe to house Nike Air, revolutionising the game while rapidly gaining traction around the world. Today, the Air Force 1 stays true to its roots with the same soft and springy cushioning that changed sneaker history."
+    }
+  },
+  {
+    "_id": "3",
+    "name": "Suede XL Hairy Sneakers",
+    "imgUrl": "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/397241/03/sv01/fnd/EEA/fmt/png/Suede-XL-Hairy-Sneakers",
+    "description": "This fresh take on the classic Suede draws inspiration from PUMA’s heritage within breakdancing and its influence on modern streetwear. The Suede XL retains the Suede’s iconic DNA, but gives it a twist with an exaggerated padded collar and tongue, plus a chunkier sole. This version comes with a hairy suede upper that creates a unique look.",
+    "tags": ["Comfort"],
+    "productPhotos": [
+      "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/397241/03/sv01/fnd/EEA/fmt/png/Suede-XL-Hairy-Sneakers",
+      "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/397241/03/fnd/EEA/fmt/png/Suede-XL-Hairy-Sneakers",
+      "https://images.puma.com/image/upload/f_auto,q_auto,b_rgb:fafafa,w_1050,h_1050/global/397241/03/mod01/fnd/EEA/fmt/png/Suede-XL-Hairy-Sneakers"
+    ],
+    "details": {
+      "caption": "Suede XL Hairy Sneakers",
+      "benefits": [],
+      "product_details": [
+        "Hairy suede upper",
+        "Thick laces",
+        "CPU badge on tongue and debossed and printed PUMA branding",
+        "Synthetic lining",
+        "Synthetic sockliner",
+        "PUMA branding on outsole",
+        "Rubber midsole",
+        "Rubber outsole"
+      ],
+      "story": ""
     }
   }
 ]
