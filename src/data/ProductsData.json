@@ -1,0 +1,55 @@
+[
+  {
+    "_id": "1",
+    "name": "Nike Air Force 1 '07",
+    "imgUrl": "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/AIR+FORCE+1+%2707.png",
+    "description": "The radiance lives on in the Nike Air Force 1 '07, the basketball original that puts a fresh spin on what you know best: durably stitched overlays, clean finishes and the perfect amount of flash to make you shine.",
+    "tags": ["Bestseller"],
+    "productPhotos": [
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/b7d9211c-26e7-431a-ac24-b0540fb3c00f/AIR+FORCE+1+%2707.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/33533fe2-1157-4001-896e-1803b30659c8/AIR+FORCE+1+%2707.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/120a31b0-efa7-41c7-9a84-87b1e56ab9c3/AIR+FORCE+1+%2707.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1c1e5f55-99c2-4522-b398-2352e01ba566/AIR+FORCE+1+%2707.png",
+      "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0a0e1b96-043c-46d4-96a0-22408b6c771d/AIR+FORCE+1+%2707.png"
+    ],
+    "details": {
+      "caption": "LEGENDARY STYLE REFINED",
+      "benefits": [
+        "The stitched overlays on the upper add heritage style, durability and support.",
+        "Originally designed for performance hoops, the Nike Air cushioning adds lightweight, all-day comfort.",
+        "The low-cut silhouette adds a clean, streamlined look.",
+        "The padded collar feels soft and comfortable."
+      ],
+      "product_details": ["Foam midsole", "Perforations on the toe", "Rubber sole", "Colour Shown: White/White", "Style: CW2288-111"],
+      "story": "Debuting in 1982, the AF-1 was the first basketball shoe to house Nike Air, revolutionising the game while rapidly gaining traction around the world. Today, the Air Force 1 stays true to its roots with the same soft and springy cushioning that changed sneaker history."
+    }
+  },
+  {
+    "_id": "2",
+    "name": "SAMBA OG SHOES",
+    "imgUrl": "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3bbecbdf584e40398446a8bf0117cf62_9366/Samba_OG_Shoes_White_B75806_01_00_standard.jpg",
+    "description": "Born on the pitch, the Samba is a timeless icon of street style. This silhouette stays true to its legacy with a tasteful, low-profile, soft leather upper, suede overlays and gum sole, making it a staple in everyone's closet - on and off the pitch.",
+    "tags": ["Popular"],
+    "productPhotos": [
+      "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3bbecbdf584e40398446a8bf0117cf62_9366/Samba_OG_Shoes_White_B75806_01_00_standard.jpg",
+      "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/ec595635a2994adea094a8bf0117ef1a_9366/Samba_OG_Shoes_White_B75806_02_standard.jpg",
+      "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/b067d21288bc43ec8298a8bf01180400_9366/Samba_OG_Shoes_White_B75806_04_standard.jpg",
+      "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/3a8d5f9cb7444bd195f1a8bf01180e68_9366/Samba_OG_Shoes_White_B75806_05_standard.jpg",
+      "https://assets.adidas.com/images/h_840,f_auto,q_auto,fl_lossy,c_fill,g_auto/8c4158c4c39a4ab09b8ba8c000c96fd0_9366/Samba_OG_Shoes_White_B75806_01_01_hover_standard.jpg"
+    ],
+    "details": {
+      "caption": "LEGENDARY STYLE REFINED",
+      "benefits": [],
+      "product_details": [
+        "Regular fit",
+        "Lace closure",
+        "Full grain leather upper with gritty suede and gold foil details",
+        "Synthetic leather lining; Gum rubber cupsole",
+        "Gum rubber midsole",
+        "Product color: Cloud White / Core Black / gum",
+        "Product code: B75806"
+      ],
+      "story": "Debuting in 1982, the AF-1 was the first basketball shoe to house Nike Air, revolutionising the game while rapidly gaining traction around the world. Today, the Air Force 1 stays true to its roots with the same soft and springy cushioning that changed sneaker history."
+    }
+  }
+]
