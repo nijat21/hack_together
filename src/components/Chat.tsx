@@ -14,10 +14,14 @@ function Chat({ productId }) {
     const newId = uniqueKey()
     return newId
   }
-  const [userId, setUserId] = useState(() => getUserId())
+
+  const [userId, setUserId] = useState('')
+  useEffect(() => {
+    setUserId(() => getUserId())
+  }, [])
 
   const handleSend = () => {
-    if (input.trim()) {
+    if (input.trim() && userId) {
       // scroll to last message when user writes a new message
       setMessages([...messages, { text: input, time: new Date().toISOString(), userId: userId }])
       setInput('')
