@@ -12,6 +12,7 @@ function Chat({ productId }) {
     if (stored) return stored
 
     const newId = uniqueKey()
+    localStorage.setItem('userId', newId)
     return newId
   }
 

@@ -3,6 +3,7 @@ import { createRoot } from 'react-dom/client'
 import { ReactTogether } from 'react-together'
 import { BrowserRouter as Router } from 'react-router-dom'
 import 'src/index.css'
+import { UserProvider } from '@contexts/UserProvider'
 
 import App from '@App'
 
@@ -18,9 +19,11 @@ createRoot(document.getElementById('root')!).render(
         password: import.meta.env['VITE_SESSION_PASSWORD'],
       }}
     >
-      <Router>
-        <App />
-      </Router>
+      <UserProvider>
+        <Router>
+          <App />
+        </Router>
+      </UserProvider>
     </ReactTogether>
   </StrictMode>
 )
