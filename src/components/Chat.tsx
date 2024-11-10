@@ -14,7 +14,7 @@ function Chat({ productId }) {
     const newId = uniqueKey()
     return newId
   }
-  const [userId, setUserId] = useState(getUserId())
+  const [userId, setUserId] = useState(() => getUserId())
 
   const handleSend = () => {
     if (input.trim()) {
